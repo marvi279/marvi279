@@ -8,7 +8,11 @@
 
 ###Connect with me :
 <p align="left">
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>](https://www.linkedin.com/in/marvin-adu-24a24a34a/)
+  <a href="https://www.linkedin.com/in/marvin-adu-24a24a34a/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+</p>
+
 
 </p>
 
