@@ -2,7 +2,15 @@
 
 - 🌱 I’m currently learning javascript and python
 - 📫 How to reach me: [marvinadu2006@gmail.com](mailto:marvinadu2006@gmail.com)
-- 🎯 Passionae about  Full-Stack Problem Solving, backend development and  Building Real-World Tech Solutions
+- 🎯 Passionate about  Full-Stack Problem Solving, backend development and  Building Real-World Tech Solutions
+- ⚡ Fun fact: I also enjoy writing tech blogs
+  Check it out ---> [Medium](https://medium.com/@marvinadu2006)
+
+###Connect with me :
+<p align="left">
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>](https://www.linkedin.com/in/marvin-adu-24a24a34a/)
+
+</p>
 
 ### Languages & Tools
 
@@ -26,7 +34,6 @@
 - 🔭 I’m currently working on ...
 -->
 
-### ⚡ Fun fact:
   I learn by building,writing and teaching
   I also enjoy writing tech blogs
   Check it out ---> [Medium](https://medium.com/@marvinadu2006)
