@@ -11,8 +11,8 @@
   <a href="https://www.linkedin.com/in/marvin-adu-24a24a34a/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-   <a href="https://www.hackerrank.com/profile/marvinadu2006">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" alt="HackerRank" width="40" height="40"/>
+  <a href="https://www.hackerrank.com/profile/marvinadu2006">
+    <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HackerRank" width="40" height="40"/>
   </a>
 </p>
 
