@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I also enjoy writing tech blogs
   Check it out ---> [Medium](https://medium.com/@marvinadu2006)
 
-###Connect with me :
+### Connect with me :
 <p align="left">
   <a href="https://www.linkedin.com/in/marvin-adu-24a24a34a/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
